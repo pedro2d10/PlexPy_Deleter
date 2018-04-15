@@ -6,10 +6,10 @@ import datetime
 from terminaltables import AsciiTable
 import humanfriendly
 
-api_token = '9ca16edb7aa786decd482cd59afae497'
+api_token = 'XXXXX'
 api_url_base = 'http://localhost:8181/plexpy/api/v2/?apikey={0}&cmd='.format(api_token)
 
-PLEXPY_APIKEY = '9ca16edb7aa786decd482cd59afae497'  # Your PlexPy API key
+PLEXPY_APIKEY = 'XXXXX'  # Your PlexPy API key
 PLEXPY_URL = 'http://localhost:8181/plexpy'  # Your PlexPy URL
 
 
